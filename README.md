@@ -21,3 +21,5 @@ Other great resources you can use are:
 Most important though...HAVE FUN!!!!!!!
 
 
+
+<a href='https://learn.co/lessons/hs-ruby1-my-website' data-visibility='hidden'>View this lesson on Learn.co</a>
